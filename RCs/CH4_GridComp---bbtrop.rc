@@ -1,0 +1,30 @@
+#
+# Resource file for CH4 parameters. 
+#
+
+# Indicate regions using a comma-delimited list of integers.
+# To activate all land boxes, use -1, or all or global (not case sensitive)
+# -------------------------------------------------------------------------
+# Code reads this but does not use it
+CH4_regions_indices: -1
+
+# For all land boxes in a latitude range, set doZoneMasking to
+# 1 then specify BOTH the south and north limits in degrees.
+# WARNING: When set, zone masking OVERRIDES regions setting above!
+# ----------------------------------------------------------------
+# Code no longer reads these:
+# doZoneMasking: 0
+# LatitudeSouth: 45.0
+# LatitudeNorth: 90.0
+
+# Not currently used
+# ------------------
+# solar_ZA_cutoff: 94.00
+
+# Let's have a run-time debug switch (0 off, 1 on)
+# ------------------------------------------------
+DEBUG: 0 
+
+# Now set automatically if species name ends in "12C" or "13C"
+# No longer read from this file
+# C_isotope: 0
