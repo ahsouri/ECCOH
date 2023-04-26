@@ -17,7 +17,7 @@ PrimaryExports%%
   CH4_Cl                 NA              Y Y  %y4-%m2-%d2t12:00:00  none     none     cl             /discover/nobackup/mmanyin/CCM/EXT_DATA/ECCOH/gmiorig_oh_ch4_cl_o1d.x144_y91_z72_t12.2006.nc
   CH4_O1D                NA              Y Y  %y4-%m2-%d2t12:00:00  none     none     o1d            /discover/nobackup/mmanyin/CCM/EXT_DATA/ECCOH/gmiorig_oh_ch4_cl_o1d.x144_y91_z72_t12.2006.nc
   CH4_regionMask         NA              N v  -                     none     none     REGION_MASK    /discover/nobackup/sstrode/emissions/CH4_region_mask.x1440_y720.nc
-  CH4_oh                 NA              Y Y  %y4-%m2-%d2t12:00:00  none     none     oh             /discover/nobackup/mmanyin/CCM/EXT_DATA/ECCOH/gmiorig_oh_ch4_cl_o1d.x144_y91_z72_t12.2006.nc
+# CH4_oh                 NA              Y Y  %y4-%m2-%d2t12:00:00  none     none     oh             /discover/nobackup/mmanyin/CCM/EXT_DATA/ECCOH/gmiorig_oh_ch4_cl_o1d.x144_y91_z72_t12.2006.nc
 %%
 
 DerivedExports%%
