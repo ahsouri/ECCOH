@@ -11,4 +11,4 @@
 #  All instances    | full  | -1
 # ------------------|-------|------------
 
-CH4_instances: full fos wetland bbtrop
+CH4_instances: full

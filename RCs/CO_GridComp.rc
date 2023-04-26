@@ -25,4 +25,4 @@ CO_instances: full bbgl nbgl
 #            Global | nbgl  | Global
 # ------------------|-------|------------
 
-CO_instances: full bbgl nbgl
+CO_instances: full
