@@ -267,7 +267,7 @@ ANA_LM: 72
  
 # Typical MERRA-2 Regular REPLAY Configuration
 # --------------------------------------------
-M2 REPLAY_ANA_EXPID:   MERRA-2
+REPLAY_ANA_EXPID:   MERRA-2
 REPLAY_ANA_LOCATION: /discover/nobackup/projects/gmao/merra2/data/pub/products/MERRA2_all
 REPLAY_MODE: Regular
 REPLAY_FILE: /discover/nobackup/projects/gmao/merra2/data/pub/products/MERRA2_all/Y%y4/M%m2/MERRA2.tavg3_3d_asm_Nv.%y4%m2%d2.nc4
